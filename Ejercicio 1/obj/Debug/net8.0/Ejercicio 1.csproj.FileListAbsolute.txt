@@ -1,0 +1,14 @@
+C:\Users\usuario\Documents\Metodología\Trabajos\Ejercicios de Listas\Ejercicio 1\bin\Debug\net8.0\Ejercicio 1.exe
+C:\Users\usuario\Documents\Metodología\Trabajos\Ejercicios de Listas\Ejercicio 1\bin\Debug\net8.0\Ejercicio 1.deps.json
+C:\Users\usuario\Documents\Metodología\Trabajos\Ejercicios de Listas\Ejercicio 1\bin\Debug\net8.0\Ejercicio 1.runtimeconfig.json
+C:\Users\usuario\Documents\Metodología\Trabajos\Ejercicios de Listas\Ejercicio 1\bin\Debug\net8.0\Ejercicio 1.dll
+C:\Users\usuario\Documents\Metodología\Trabajos\Ejercicios de Listas\Ejercicio 1\bin\Debug\net8.0\Ejercicio 1.pdb
+C:\Users\usuario\Documents\Metodología\Trabajos\Ejercicios de Listas\Ejercicio 1\obj\Debug\net8.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Metodología\Trabajos\Ejercicios de Listas\Ejercicio 1\obj\Debug\net8.0\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Metodología\Trabajos\Ejercicios de Listas\Ejercicio 1\obj\Debug\net8.0\Ejercicio 1.AssemblyInfo.cs
+C:\Users\usuario\Documents\Metodología\Trabajos\Ejercicios de Listas\Ejercicio 1\obj\Debug\net8.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Metodología\Trabajos\Ejercicios de Listas\Ejercicio 1\obj\Debug\net8.0\Ejercicio 1.dll
+C:\Users\usuario\Documents\Metodología\Trabajos\Ejercicios de Listas\Ejercicio 1\obj\Debug\net8.0\refint\Ejercicio 1.dll
+C:\Users\usuario\Documents\Metodología\Trabajos\Ejercicios de Listas\Ejercicio 1\obj\Debug\net8.0\Ejercicio 1.pdb
+C:\Users\usuario\Documents\Metodología\Trabajos\Ejercicios de Listas\Ejercicio 1\obj\Debug\net8.0\Ejercicio 1.genruntimeconfig.cache
+C:\Users\usuario\Documents\Metodología\Trabajos\Ejercicios de Listas\Ejercicio 1\obj\Debug\net8.0\ref\Ejercicio 1.dll

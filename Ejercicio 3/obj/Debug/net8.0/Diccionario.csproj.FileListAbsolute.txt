@@ -1,0 +1,14 @@
+C:\Users\labc205\Documents\Diccionario\bin\Debug\net8.0\Diccionario.exe
+C:\Users\labc205\Documents\Diccionario\bin\Debug\net8.0\Diccionario.deps.json
+C:\Users\labc205\Documents\Diccionario\bin\Debug\net8.0\Diccionario.runtimeconfig.json
+C:\Users\labc205\Documents\Diccionario\bin\Debug\net8.0\Diccionario.dll
+C:\Users\labc205\Documents\Diccionario\bin\Debug\net8.0\Diccionario.pdb
+C:\Users\labc205\Documents\Diccionario\obj\Debug\net8.0\Diccionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc205\Documents\Diccionario\obj\Debug\net8.0\Diccionario.AssemblyInfoInputs.cache
+C:\Users\labc205\Documents\Diccionario\obj\Debug\net8.0\Diccionario.AssemblyInfo.cs
+C:\Users\labc205\Documents\Diccionario\obj\Debug\net8.0\Diccionario.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Documents\Diccionario\obj\Debug\net8.0\Diccionario.dll
+C:\Users\labc205\Documents\Diccionario\obj\Debug\net8.0\refint\Diccionario.dll
+C:\Users\labc205\Documents\Diccionario\obj\Debug\net8.0\Diccionario.pdb
+C:\Users\labc205\Documents\Diccionario\obj\Debug\net8.0\Diccionario.genruntimeconfig.cache
+C:\Users\labc205\Documents\Diccionario\obj\Debug\net8.0\ref\Diccionario.dll
